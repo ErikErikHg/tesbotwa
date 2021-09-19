@@ -1,4 +1,4 @@
-//HAI KALI INI SAYA MAU MEMBERIKAN SC, MOHON TAMBAH NAMA SAYA PRII
+//HAI KALI INI SAYA MAU MEMBERIKAN SC, MOHON TAMBAH NAMA SAYA Rixx
 //PASTI BANYAK YANG LANGGAR
 const help = (prefix) => {
 	return `Hallo, user bot 👋
@@ -7,24 +7,24 @@ Semoga harimu Menyenangkan
      LIST MENU  ${namabot}
        
  ╭◪ INFO CREATOR
-├❖ *Author : BOT INDO*
-├❍ *Insta    : @aprigans_*
-├❖ *Youtub : BOT INDO*
-├❍ *LinkGb : https://chat.whatsapp.com/Hk1IyJnQndE1sXtc1eYbFB*
-├❖ *LINK : https://www.youtube.com/c/BOTINDO*
-├❍ *wasap : wa.me/628811929177*
+├❖ *Author : ERIK GN*
+├❍ *Insta    : @eriksunda09*
+├❖ *Youtub : Belum Ada*
+├❍ *LinkGb : https://chat.whatsapp.com/Eh3qCDDiW41K03NIcbdTfc*
+├❖ *LINK : *
+├❍ *wasap : wa.me/6283819654409*
 ╰────────────────────────╯
        
 ╭─❒ *info bot* 
 │❒ 𝖭𝖺𝗆𝖺 : ${namabot}
-│❒ author : Prii
+│❒ author : Rixx
 │❒ recode : Bot Indo
 │❒ server : baileys
 ╰───────────────┈ ⳹
 
 ╭─❒ *INFO OWNER* 
-│❒ 𝖭𝖺𝗆𝖺 : ${namaowner}
-│❒ Nomor : wa.me/${owner}
+│❒ 𝖭𝖺𝗆𝖺 : ${ERIK}
+│❒ Nomor : wa.me/${6283819654408}
 ╰───────────────┈ ⳹
 
 ╭◪ 𝐑𝐮𝐥𝐞𝐬𝐒 
@@ -175,7 +175,7 @@ _*BIG THANKS TO*_
            ║▌│█║▌│ █║▌│█│║▌║
            ║▌│█║▌│ █║▌│█│║▌║
    
-            [ *POWERED BY ${namaowner}* ]`
+            [ *POWERED BY ${ERIK GN}* ]`
 }
 
 exports.help = help
