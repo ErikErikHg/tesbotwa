@@ -12,14 +12,14 @@
 <a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
 <a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
 <a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/ErikErikHg/tesbotwa"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/ErikErikHg/tesbotwa
 ```
 
 ## Install the dependencies:
@@ -27,7 +27,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd termux-wabot
+> cd tesbotwa
 > bash install.sh
 ```
 
